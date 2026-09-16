@@ -1,5 +1,5 @@
 package: lazycat.community.app.file-drop
-version: 1.0.3
+version: 2026.8.27
 name: File Drop
 description: "A decentralized, open-source solution for sharing images, videos, and any other files."
 min_os_version: "1.5.0"
