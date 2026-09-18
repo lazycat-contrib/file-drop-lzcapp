@@ -8,5 +8,5 @@ application:
       backend: http://file-drop:3232/
 services:
   file-drop:
-    # upstream: ghcr.io/besoeasy/originless:20260827
-    image: ghcr.1ms.run/besoeasy/originless:20260827
+    # upstream: ghcr.io/besoeasy/originless:20260917
+    image: ghcr.1ms.run/besoeasy/originless:20260917
